@@ -1,0 +1,15 @@
+{
+  "content": [
+    {
+      "id": 2515478,
+      "inn": "<strong>5256038700</strong>",
+      "ogrn": "1025202263327",
+      "shortName": "ООО \"ПРИМЕР\"",
+      "region": "НИЖЕГОРОДСКАЯ ОБЛАСТЬ",
+      "okved2": "20.59.5",
+      "statusCode": "ACTIVE",
+      "bfo": {"period": "2025", "gainSum": 6390649}
+    }
+  ],
+  "totalElements": 1
+}

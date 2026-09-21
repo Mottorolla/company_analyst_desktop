@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1001,
+    "period": "2025",
+    "publishedCorrectionDate": "2026-03-17",
+    "typeCorrections": [
+      {
+        "type": 12,
+        "correction": {
+          "id": 54356540,
+          "correctionVersion": 0,
+          "periodType": 12,
+          "balance": {
+            "current1100": 3905648,
+            "current1200": 10784618,
+            "current1230": 4500000,
+            "current1250": 800000,
+            "current1300": 1448961,
+            "current1400": 5267577,
+            "current1500": 7973728,
+            "current1520": 5200000,
+            "current1600": 14690266,
+            "current1700": 14690266
+          },
+          "financialResult": {
+            "current2110": 6390649,
+            "current2120": 3925141,
+            "current2100": 2465508,
+            "current2210": 500000,
+            "current2220": 800000,
+            "current2200": 1165508,
+            "current2320": 18000,
+            "current2330": 95000,
+            "current2340": 140000,
+            "current2350": 1030000,
+            "current2300": 198508,
+            "current2410": 153314,
+            "current2400": 45194
+          }
+        }
+      }
+    ]
+  }
+]
