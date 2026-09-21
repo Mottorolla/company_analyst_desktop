@@ -1,0 +1,19 @@
+COMPANY ANALYST BI — БЫСТРЫЙ СТАРТ (WINDOWS)
+
+1) Установите Python 3.11–3.14 x64 и включите Add Python to PATH.
+2) Запустите run_windows.bat — pri pervom zapuske on sam ustanovit biblioteki.
+3) Dlya polnoi chistoi pereustanovki zapustite install_windows.bat.
+4) Подробная инструкция — README.md.
+
+Если появляется ошибка Altair / typing_extensions, запустите repair_windows.bat.
+Novaya versiya ispolzuet papku .venv_bi i ne zavisit ot staroi .venv.
+
+После анализа нажмите «Открыть BI-дашборд»: внутри есть фильтры, KPI,
+9 связанных графиков и экспорт PNG / SVG / интерактивного HTML.
+
+Выберите конечный год и глубину периода в раскрывающемся списке: например, 2024 + 5 лет = 2020–2024.
+Линейные графики показывают динамику, столбчатые — сравнение за выбранный год.
+
+Формат нескольких ИНН: ИНН1/ИНН2/ИНН3
+
+Для сборки EXE: build_windows_exe.bat

@@ -1,0 +1,3 @@
+Project code in this archive is provided for the user's own use and modification.
+Third-party Python packages are distributed under their respective licenses.
+Data retrieved by the application remains subject to the terms and legal framework of the original public source.
